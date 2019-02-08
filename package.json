@@ -1,0 +1,14 @@
+{
+  "name": "nodewebtest",
+  "version": "1.0.0",
+  "description": "Just want to test if I can host this statis website with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rieder",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
